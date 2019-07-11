@@ -5,6 +5,10 @@
     site : "http://tihar-tech.cn"
   }
 ```
+项目地址
+```java
+    site : "http://47.101.202.111"
+```
 ## 文件目录
 * sentiment
     * /static `前端资源静态文件`
